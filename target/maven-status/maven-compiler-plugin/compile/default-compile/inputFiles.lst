@@ -1,0 +1,6 @@
+D:\Java\Tutos\Spring\Ehret\dvdstore\core\src\main\java\com\mycompany\dvdstore\entity\Movie.java
+D:\Java\Tutos\Spring\Ehret\dvdstore\core\src\main\java\com\mycompany\dvdstore\repository\MovieRepositoryInterface.java
+D:\Java\Tutos\Spring\Ehret\dvdstore\core\src\main\java\com\mycompany\dvdstore\repository\memory\MemoryMovieRepository.java
+D:\Java\Tutos\Spring\Ehret\dvdstore\core\src\main\java\com\mycompany\dvdstore\repository\file\FileMovieRepository.java
+D:\Java\Tutos\Spring\Ehret\dvdstore\core\src\main\java\com\mycompany\dvdstore\service\DefaultMovieService.java
+D:\Java\Tutos\Spring\Ehret\dvdstore\core\src\main\java\com\mycompany\dvdstore\service\MovieServiceInterface.java
